@@ -1,6 +1,6 @@
 # VR-UIDesign
 
-### 基于Unity3D和HTC VIVE的虚拟现实开发和界面交互
+### 基于Unity3D和steamVR的虚拟现实开发和界面交互
 
 开发时间：2019年2月20日-3月10日
 
